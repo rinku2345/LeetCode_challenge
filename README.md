@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rinku2345/LeetCode_challenge/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rinku2345/LeetCode_challenge/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/rinku2345/LeetCode_challenge/tree/master/0066-plus-one) |
+| [0724-find-pivot-index](https://github.com/rinku2345/LeetCode_challenge/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/rinku2345/LeetCode_challenge/tree/master/0371-sum-of-two-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/rinku2345/LeetCode_challenge/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
